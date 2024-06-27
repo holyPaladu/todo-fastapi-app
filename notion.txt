@@ -1,0 +1,1 @@
+pip freeze > requirements.txt // для закрепление всех зависемостей в requirements.txt
